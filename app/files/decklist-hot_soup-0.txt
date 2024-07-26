@@ -1,0 +1,13 @@
+[COMMANDER]
+1x - HOLY COMMANDR
+
+
+[CREATURE]
+
+1x - Jeff Bezos
+1x - John Cena
+
+
+[ARTIFACT]
+
+1x - The everchalice
