@@ -9,3 +9,9 @@ docker-down-container:
 
 down-docker-image:
 	docker rmi myimage
+
+install-packages:
+	 pip3 install -r requirements.txt
+
+freeze-requirements:
+	pip freeze > requirements.txt
